@@ -1,0 +1,34 @@
+.demo {
+    background-color: cyan
+}
+
+.mydiv {
+    background-color: aquamarine;
+    width: 100%;
+    height: 200px;
+}
+
+p {
+    color: brown
+}
+
+h3 {
+    font-size: 30px;
+    font-family: monospace;
+    color: chocolate;
+}
+.p1{
+color:green
+}
+
+#div1{
+background-color: grey;
+
+}
+.div1{
+background-color: green;
+
+}
+div{
+background-color: yellow;
+}
